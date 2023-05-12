@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": Apple, "title": "Post 1" },
-    { "id": Mango, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    {"id":4,"title":"Post 4"}
+    { "id": 1, "title": "Apple" },
+    { "id": 2, "title": "Mango" },
+    { "id": 3, "title": "Banana" },
+    {"id":4,"title":"Orange"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
